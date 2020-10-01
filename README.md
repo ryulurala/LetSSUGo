@@ -4,6 +4,12 @@
 
 ---
 
+## Journal
+
+Download([pdf](./LetSSUGo_Journal.pdf?raw=true))
+
+---
+
 ## Video
 
 Youtube [here](https://youtu.be/nAeNCyQtUjM "Youtube")
