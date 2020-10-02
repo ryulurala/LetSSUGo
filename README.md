@@ -6,7 +6,7 @@
 
 ## Journal
 
-Download([pdf](./LetSSUGo_Journal.pdf?raw=true))
+Link([here](https://github.com/ryulurala/LetSSUGo/blob/master/LetSSUGo_Journal.pdf))
 
 ---
 
